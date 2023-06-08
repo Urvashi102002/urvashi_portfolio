@@ -19,7 +19,7 @@ function About() {
             <div className="about__meta">
               <p className="about__text p__color">
               I am a Third Year "B.Tech CSE Student" at VIT, BHOPAL.
-               I am interested in Competitive coding, web Development, UI/UX Designer, and a quick learner easily adapt to new technologies.
+               I interested in Competitive coding, web Development, UI/UX Designer, and a quick learner easily adapt to new technologies.
               </p>
               <p className="about__text p__color">
                 I love to create solutions to real world problems.
@@ -33,6 +33,8 @@ function About() {
                I am certified for Bits and Bytes for Computer Networking by Coursera. </p>
                <p className="about__text p__color">
                I am certified for React.js essential training by Linkedin </p>
+            <p className="about__text p__color">
+               I also completed 2 month internship in web developement domain </p>
 
                
              
