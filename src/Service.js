@@ -11,7 +11,7 @@ function Service() {
       <div className="heading">
         <h1 className="heading">My Technical Skills</h1>
         {/* <p className="heading p__color">
-          There are many variations of passages of Lorem Ipsum available,
+          There are many variations of passages of Lorem Ipsum available in our website,
         </p>
         <p className="heading p__color">
           but the majority have suffered alteration.
