@@ -36,7 +36,6 @@ function About() {
             <p className="about__text p__color">
                I also completed 2 month internship in web developement domain </p>
 
-               
              
               <div className="about__button d__flex align__items__center">
                 <a href="#">
